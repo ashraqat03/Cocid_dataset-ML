@@ -3,7 +3,7 @@
 
 A machine learning-based web application that predicts a patient's COVID-19 status (Healthy or Diseased) based on clinical and laboratory data. The app is built using Streamlit and powered by a tuned Random Forest model.
 
-**Live App**: [Click here to open]([https://your-streamlit-app-link.streamlit.app](https://cociddataset-ml-sxem7mjegy7wwkegybgavb.streamlit.app/))
+**Live App**: [Click here to open](https://coviddataset-ml-4yzvcycqgnryqhewacf2ja.streamlit.app/)
 
 ---
 
