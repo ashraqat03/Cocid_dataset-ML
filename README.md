@@ -1,5 +1,4 @@
 # Covid_dataset-ML
-# COVID Status Prediction App
 
 A machine learning-based web application that predicts a patient's COVID-19 status (Healthy or Diseased) based on clinical and laboratory data. The app is built using Streamlit and powered by a tuned Random Forest model.
 
